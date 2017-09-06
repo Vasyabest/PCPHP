@@ -1,8 +1,10 @@
+.idea/
 vendor/
 node_modules/
 dist/
 .idea
-
+css/mainPage/studentList/*.css
+css/mainPage/studentList/*.css.map
 
 ### Yii template
 assets/*
